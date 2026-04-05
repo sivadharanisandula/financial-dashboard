@@ -72,11 +72,7 @@ npm run dev
 npm run build
 ```
 
-## Screenshots
 
-- `[Placeholder]` Overview dashboard screenshot
-- `[Placeholder]` Transactions management screenshot
-- `[Placeholder]` Dark mode screenshot
 
 ## Notes
 
